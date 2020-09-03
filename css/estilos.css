@@ -1,0 +1,17 @@
+body
+{
+    padding: 10px;
+    margin: 40px;
+    font-size: 24px;
+    font-family: Helveltica;
+    background-image: url(https://static1.bigstockphoto.com/6/4/2/large1500/246919240.jpg);
+    background-repeat: no-repeat;
+    background-size: auto;
+    color: white;
+}
+nav
+{
+    background-color: white;
+    padding: 0px;
+    color: #b008a0;
+}
